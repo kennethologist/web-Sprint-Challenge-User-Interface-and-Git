@@ -226,6 +226,10 @@ nav a {
     color: #1f1f1f
 } 
 
+.rowitem h2 {
+    margin-top: 2%;
+}
+
 .work {
     padding: 2%;
 }
