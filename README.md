@@ -34,9 +34,17 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is HTML that is marked up in a way to give meaning to the markup for humans. For example grouping the navigation area of a site in a nav tag or footer area in a footer tag etc.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+1. display: block on an element takes up the entire line while display:inline only takes up the space required for the element.
+
+2. 
+
 3. What are the 4 areas of the box model?
+
+Margins, borders, padding, and content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
